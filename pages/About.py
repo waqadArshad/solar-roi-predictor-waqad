@@ -174,9 +174,7 @@ with col1:
         <div class="member-name">Muhammad Sheeraz</div>
         <div class="member-role">ML Engineer & Full-Stack Developer</div>
         <div class="member-bio">
-            ChatGPT said:
-
-AI/ML Engineer experienced in building end-to-end data-driven applications. Skilled in Python, TensorFlow, and cloud deployment, with expertise in predictive analytics, real-time APIs, and scalable, production-ready machine learning solutions.
+            AI/ML Engineer experienced in building end-to-end data-driven applications. Skilled in Python, TensorFlow, and cloud deployment, with expertise in predictive analytics, real-time APIs, and scalable, production-ready machine learning solutions.
         </div>
     </div>
     """, unsafe_allow_html=True)
