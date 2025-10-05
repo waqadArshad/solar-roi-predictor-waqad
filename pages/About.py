@@ -200,8 +200,7 @@ with col3:
         <div class="member-name">Waqad</div>
         <div class="member-role">Mobile App Developer</div>
         <div class="member-bio">
-            Passionate Mobile App Developer skilled in Dart, Node.js, and Python, building seamless, high-performance applications.
-            Experienced in crafting efficient API integrations that connect systems and elevate user experiences. 
+            Mobile App Developer with expertise in Dart, Node.js, and Python, creating high-performance, scalable applications. Skilled in seamless API integration, backend connectivity, and delivering efficient, user-focused mobile experiences across platforms.
         </div>
     </div>
     """, unsafe_allow_html=True)
